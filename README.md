@@ -13,7 +13,6 @@ It allows LED brightness control based on ambient input or user commands over UA
 - **ADC** for reading analog input from a potentiometer  
 - **UART** for manual control via Serial Monitor  
 - **External Interrupt (INT0)** to toggle modes  
-- **Proteus (for simulation)**  
 - **Atmel Studio / Microchip Studio** or `avr-gcc` toolchain  
 
 ---

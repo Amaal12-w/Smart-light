@@ -52,9 +52,8 @@ The system operates in **two modes**:
 
 ## 📁 Project Files
 
-You can view the full source code here:  
-👉 [Click to view the code on GitHub](https://github.com/username/smart-light-dimming-avr/blob/main/src/main.c)
-
+You can view the full source code here: 
+https://github.com/Amaal12-w/Smart-light/commit/0763ef4c068afb97aa4efa3fadadd61e9fac5884
 ## 📸 Simulation
 
 ![Circuit Simulation](images/proteus-circuit.png)

@@ -55,8 +55,7 @@ You can view the full source code here:
 https://github.com/Amaal12-w/Smart-light/commit/0763ef4c068afb97aa4efa3fadadd61e9fac5884
 ## 📸 Simulation
 
-![Circuit Simulation](images/proteus-circuit.png)
-
+![Image](https://github.com/user-attachments/assets/a5a6f643-383b-4835-8251-1b70aeb93fb5)
 ## 🙏 Special Thanks
 
 Big thanks to my team and everyone who helped me in the control part 💚
